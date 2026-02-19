@@ -1,0 +1,8 @@
+{
+  "total_actual_cost_NOK": 6004737077.714463,
+  "total_abs_cost_error_NOK": 50194728.67127471,
+  "mean_abs_cost_error_NOK_per_hour": 6661.543287494985,
+  "total_actual_co2_kg": 3337198161.1499996,
+  "total_abs_co2_error_kg": 28082114.62113402,
+  "mean_abs_co2_error_kg_per_hour": 3726.8897970980784
+}
